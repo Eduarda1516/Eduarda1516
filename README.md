@@ -1,4 +1,4 @@
-ué👋 olá, seja bem vindo
+👋 olá, seja bem vindo
 
 <img src = "banner.gif" width = "325px" align = "right">
 
@@ -6,6 +6,7 @@ ué👋 olá, seja bem vindo
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas (ADS).
 
 ✍️ No meu tempo livre gosto de assistir filmes, séries, e passar tempo com a famílial.
+
 
 --- 
 
@@ -19,7 +20,3 @@ ué👋 olá, seja bem vindo
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
 
 
-<divisão alinhar="Centro">
-<imagem fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda1516&show_icons=true&theme=radical&count_private=true"/>
-<imagem fonte="https://github-readme-stats.vercel.app/api?username=eduarda1516s&show_icons=true&show_icons=true&theme=radical&count_private=true"/>
-</divisão>

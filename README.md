@@ -1,4 +1,4 @@
-👋 olá, seja bem vindo
+ué👋 olá, seja bem vindo
 
 <img src = "banner.gif" width = "325px" align = "right">
 
@@ -17,3 +17,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+
+
+<divisão alinhar="Centro">
+<imagem fonte="https://github-readme-stats.vercel.app/api/top-langs/?username=eduarda1516&show_icons=true&theme=radical&count_private=true"/>
+<imagem fonte="https://github-readme-stats.vercel.app/api?username=eduarda1516s&show_icons=true&show_icons=true&theme=radical&count_private=true"/>
+</divisão>

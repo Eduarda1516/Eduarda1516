@@ -1,4 +1,4 @@
-👋 olá, seja bem vindo, fique a vontade 
+👋 olá, seja bem vindo
 
 <img src = "banner.gif" width = "325px" align = "right">
 

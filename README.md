@@ -14,4 +14,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
-
+https://www.instagram.com/duuarda_s?igsh=ZHFhdzl0bDAzMHVs

@@ -1,7 +1,7 @@
 👋 olá, seja bem vindo
 
 <img src = "banner.gif" width = "325px" align = "right">
-
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas (ADS).
 
@@ -14,4 +14,3 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
-    https://www.instagram.com/duuarda_s?igsh=ZHFhdzl0bDAzMHVs

@@ -1,7 +1,6 @@
 👋 olá, seja bem vindo
 
 <img src = "banner.gif" width = "325px" align = "right">
-<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas (ADS).
 

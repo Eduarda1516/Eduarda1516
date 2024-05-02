@@ -5,7 +5,7 @@
 
 🎓 Atualmente estou cursando análise e desenvolvimento de sistemas (ADS).
 
-✍️ No meu tempo livre gosto de assistir filmes, séries, jogar e passar tempo com a famílial.
+✍️ No meu tempo livre gosto de assistir filmes, séries, e passar tempo com a famílial.
 
 --- 
 
@@ -14,5 +14,4 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 
-https://www.instagram.com/duuarda_s?igsh=ZHFhdzl0bDAzMHVs
 
